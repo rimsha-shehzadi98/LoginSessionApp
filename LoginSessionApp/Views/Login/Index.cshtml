@@ -1,0 +1,19 @@
+﻿@model LoginSessionApp.Models.LoginModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h2>Login</h2>
+@if (ViewBag.Message != null)
+{
+    <div style="color:red">@ViewBag.Message</div>
+}
+<form method="post">
+    <label>Username:</label>
+    <input type="text" name="username" required />
+    <br />
+    <label>Password:</label>
+    <input type="password" name="Password" required />
+    <br />
+    <button type="submit">Login</button>
+</form>
