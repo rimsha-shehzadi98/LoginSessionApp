@@ -34,12 +34,12 @@ This project demonstrates fundamental web security concepts and MVC architecture
 
 ## 🛠️ Technologies Used
 
-- 💻 C#
-- 🌐 ASP.NET Core MVC
-- ⚡ .NET
-- 🎨 HTML & CSS
-- 📄 Razor Views
-- 🔒 Session Middleware
+💻 C#
+🌐 ASP.NET Core MVC
+⚡ .NET
+🎨 HTML & CSS
+📄 Razor Views
+🔒 Session Middleware
 
 ---
 
@@ -61,22 +61,22 @@ LoginSessionApp
 
 ## ⚙️ How It Works
 
-1. 👤 User opens the login page.
-2. 🔑 Credentials are validated.
-3. 🗂️ A user session is created.
-4. 🍪 Session data is stored securely.
-5. 🌐 User can access protected pages.
-6. ⏳ Session automatically expires after the configured timeout.
+👤 User opens the login page.
+🔑 Credentials are validated.
+🗂️ A user session is created.
+🍪 Session data is stored securely.
+🌐 User can access protected pages.
+⏳ Session automatically expires after the configured timeout.
 
 ---
 
 ## 🔒 Security Features
 
-- 🛡️ HTTP-Only Session Cookies
-- ⏱️ 20-Minute Session Timeout
-- 🔐 Secure Session Tracking
-- 🌍 HTTPS Support
-- 📦 Server-Side Session Storage
+🛡️ HTTP-Only Session Cookies
+⏱️ 20-Minute Session Timeout
+🔐 Secure Session Tracking
+🌍 HTTPS Support
+📦 Server-Side Session Storage
 
 ---
 
@@ -118,14 +118,14 @@ git clone https://github.com/rimsha-shehzadi98/LoginSessionApp.git
 
 ## 🚀 Future Enhancements
 
-- 🗄️ Database Integration
-- 👥 User Registration
-- 🔑 Password Hashing
-- 🛡️ Role-Based Authorization
-- ☑️ Remember Me Feature
-- 📧 Password Recovery System
-- 🎫 JWT Authentication
-- 🔐 Multi-Factor Authentication
+🗄️ Database Integration
+👥 User Registration
+🔑 Password Hashing
+🛡️ Role-Based Authorization
+☑️ Remember Me Feature
+📧 Password Recovery System
+🎫 JWT Authentication
+🔐 Multi-Factor Authentication
 
 ---
 
