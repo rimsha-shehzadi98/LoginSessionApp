@@ -14,32 +14,25 @@ This project demonstrates fundamental web security concepts and MVC architecture
 
 ## ✨ Features
 
-✅ User Login System
-
-✅ Session-Based Authentication
-
-✅ Secure Cookie Handling
-
-✅ Automatic Session Timeout
-
-✅ ASP.NET Core MVC Architecture
-
-✅ Route-Based Navigation
-
-✅ HTTPS Support
-
-✅ Server-Side Session Storage
+- ✅ User Login System
+- ✅ Session-Based Authentication
+- ✅ Secure Cookie Handling
+- ✅ Automatic Session Timeout
+- ✅ ASP.NET Core MVC Architecture
+- ✅ Route-Based Navigation
+- ✅ HTTPS Support
+- ✅ Server-Side Session Storage
 
 ---
 
 ## 🛠️ Technologies Used
 
-💻 C#
-🌐 ASP.NET Core MVC
-⚡ .NET
-🎨 HTML & CSS
-📄 Razor Views
-🔒 Session Middleware
+- 💻 C#
+- 🌐 ASP.NET Core MVC
+- ⚡ .NET
+- 🎨 HTML & CSS
+- 📄 Razor Views
+- 🔒 Session Middleware
 
 ---
 
@@ -61,22 +54,22 @@ LoginSessionApp
 
 ## ⚙️ How It Works
 
-👤 User opens the login page.
-🔑 Credentials are validated.
-🗂️ A user session is created.
-🍪 Session data is stored securely.
-🌐 User can access protected pages.
-⏳ Session automatically expires after the configured timeout.
+- 👤 User opens the login page
+- 🔑 Credentials are validated
+- 🗂️ A user session is created
+- 🍪 Session data is stored securely
+- 🌐 User can access protected pages
+- ⏳ Session automatically expires after the configured timeout period
 
 ---
 
 ## 🔒 Security Features
 
-🛡️ HTTP-Only Session Cookies
-⏱️ 20-Minute Session Timeout
-🔐 Secure Session Tracking
-🌍 HTTPS Support
-📦 Server-Side Session Storage
+- 🛡️ HTTP-Only Session Cookies
+- ⏱️ 20-Minute Session Timeout
+- 🔐 Secure Session Tracking
+- 🌍 HTTPS Support
+- 📦 Server-Side Session Storage
 
 ---
 
@@ -84,48 +77,44 @@ LoginSessionApp
 
 Through this project, I gained practical experience with:
 
-- ASP.NET Core MVC Development
-- Session Management
-- Authentication Concepts
-- Middleware Configuration
-- Routing & Navigation
-- Secure Cookie Handling
-- Web Security Fundamentals
+- 📚 ASP.NET Core MVC Development
+- 🔑 Session Management
+- 🛡️ Authentication Concepts
+- ⚙️ Middleware Configuration
+- 🌐 Routing & Navigation
+- 🍪 Secure Cookie Handling
+- 🔒 Web Security Fundamentals
 
 ---
 
 ## 📥 Installation
 
-### Clone the Repository
+### 📂 Clone the Repository
 
 ```bash
 git clone https://github.com/rimsha-shehzadi98/LoginSessionApp.git
 ```
 
-### Run the Project
+### ▶️ Run the Project
 
-1️⃣ Open the solution in Visual Studio
-
-2️⃣ Restore NuGet Packages
-
-3️⃣ Build the Solution
-
-4️⃣ Run the Application
-
-5️⃣ Navigate to the Login Page
+- 💻 Open the solution in Visual Studio
+- 📦 Restore NuGet Packages
+- 🔨 Build the Solution
+- ▶️ Run the Application
+- 🌐 Navigate to the Login Page
 
 ---
 
 ## 🚀 Future Enhancements
 
-🗄️ Database Integration
-👥 User Registration
-🔑 Password Hashing
-🛡️ Role-Based Authorization
-☑️ Remember Me Feature
-📧 Password Recovery System
-🎫 JWT Authentication
-🔐 Multi-Factor Authentication
+- 🗄️ Database Integration
+- 👥 User Registration
+- 🔑 Password Hashing
+- 🛡️ Role-Based Authorization
+- ☑️ Remember Me Feature
+- 📧 Password Recovery System
+- 🎫 JWT Authentication
+- 🔐 Multi-Factor Authentication
 
 ---
 
@@ -135,6 +124,10 @@ git clone https://github.com/rimsha-shehzadi98/LoginSessionApp.git
 
 🎓 Software Engineering Student
 
-💡 Passionate about Machine Learning, Cybersecurity, and Software Development
+🤖 Interested in Machine Learning & Artificial Intelligence
 
-🌱 Continuously learning and building real-world projects
+🔒 Exploring Cybersecurity and Network Security
+
+💡 Passionate about building secure and innovative software solutions
+
+🌱 Continuously learning and developing real-world projects
