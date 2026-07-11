@@ -1,0 +1,140 @@
+# 🔐 Login Session App
+
+A secure ASP.NET Core MVC web application that demonstrates user authentication and session management using server-side sessions and cookies.
+
+---
+
+## 🚀 Overview
+
+The **Login Session App** was developed to explore how session-based authentication works in ASP.NET Core MVC applications. It allows users to log in, maintain active sessions, and securely access application resources while managing user state across requests.
+
+This project demonstrates fundamental web security concepts and MVC architecture implementation.
+
+---
+
+## ✨ Features
+
+✅ User Login System
+
+✅ Session-Based Authentication
+
+✅ Secure Cookie Handling
+
+✅ Automatic Session Timeout
+
+✅ ASP.NET Core MVC Architecture
+
+✅ Route-Based Navigation
+
+✅ HTTPS Support
+
+✅ Server-Side Session Storage
+
+---
+
+## 🛠️ Technologies Used
+
+- 💻 C#
+- 🌐 ASP.NET Core MVC
+- ⚡ .NET
+- 🎨 HTML & CSS
+- 📄 Razor Views
+- 🔒 Session Middleware
+
+---
+
+## 📂 Project Structure
+
+```text
+LoginSessionApp
+│
+├── 📁 Controllers
+├── 📁 Models
+├── 📁 Views
+├── 📁 wwwroot
+├── 📄 Program.cs
+├── 📄 appsettings.json
+└── 📄 LoginSessionApp.csproj
+```
+
+---
+
+## ⚙️ How It Works
+
+1. 👤 User opens the login page.
+2. 🔑 Credentials are validated.
+3. 🗂️ A user session is created.
+4. 🍪 Session data is stored securely.
+5. 🌐 User can access protected pages.
+6. ⏳ Session automatically expires after the configured timeout.
+
+---
+
+## 🔒 Security Features
+
+- 🛡️ HTTP-Only Session Cookies
+- ⏱️ 20-Minute Session Timeout
+- 🔐 Secure Session Tracking
+- 🌍 HTTPS Support
+- 📦 Server-Side Session Storage
+
+---
+
+## 🎯 Learning Outcomes
+
+Through this project, I gained practical experience with:
+
+- ASP.NET Core MVC Development
+- Session Management
+- Authentication Concepts
+- Middleware Configuration
+- Routing & Navigation
+- Secure Cookie Handling
+- Web Security Fundamentals
+
+---
+
+## 📥 Installation
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/rimsha-shehzadi98/LoginSessionApp.git
+```
+
+### Run the Project
+
+1️⃣ Open the solution in Visual Studio
+
+2️⃣ Restore NuGet Packages
+
+3️⃣ Build the Solution
+
+4️⃣ Run the Application
+
+5️⃣ Navigate to the Login Page
+
+---
+
+## 🚀 Future Enhancements
+
+- 🗄️ Database Integration
+- 👥 User Registration
+- 🔑 Password Hashing
+- 🛡️ Role-Based Authorization
+- ☑️ Remember Me Feature
+- 📧 Password Recovery System
+- 🎫 JWT Authentication
+- 🔐 Multi-Factor Authentication
+
+---
+
+## 👩‍💻 Author
+
+### Rimsha Shehzadi
+
+🎓 Software Engineering Student
+
+💡 Passionate about Machine Learning, Cybersecurity, and Software Development
+
+🌱 Continuously learning and building real-world projects
